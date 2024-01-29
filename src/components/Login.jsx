@@ -46,7 +46,7 @@ function Login () {
             <h2>Login Page</h2>
             <form >
                 <div className='mb-3 '>
-                    <label htmlFor="email"><strong>Email:</strong></label>
+                    <label htmlFor="email"><strong>EMAIL:</strong></label>
                     <input type="email" name='email' autoComplete='off' placeholder='Enter Email'
                       className='form-control rounded-0'/>
                 </div>
